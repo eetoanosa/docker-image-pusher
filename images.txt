@@ -1,3 +1,2 @@
-kube-controllers-v3.25.0
-calico-cni-v3.25.0
-calico-node-v3.25.0
+debian:stable-slim
+golang:1.25.3
